@@ -1,6 +1,6 @@
 {
   "name": "graceful-catch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "module for gracefully handling promise rejections within express",
   "main": "index.js",
   "author": "@bcruddy | github.com/bcruddy",
